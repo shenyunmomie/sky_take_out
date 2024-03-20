@@ -28,7 +28,6 @@ public class Employee {
 
     private String idNumber;
 
-    //
     private Integer status;
 
     private LocalDateTime createTime;
